@@ -6,7 +6,7 @@ video (with fires not moving very fast, this assumption is somewhat sound) and g
 
 A description of the project, along with examples of video annotation by our network is provided below.
 
-<img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_0.gif" width="300">      <img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_1.gif" width="300">
+<img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_0.gif" width="300">      <img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_1.gif" width="300">
 
 
 ## Datasets
@@ -125,8 +125,8 @@ From our experiments, it seems that 'fire' and 'no fire' images are always lassi
 
 Examples of videos annotated by our model can be found below.
 
-<img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_1.gif" width="350">
-<img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_2.gif" width="350">
-<img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_3.gif" width="350">
-<img src="https://github.com/satyam-src/fire-detection/blob/master/video_examples/video_0.gif" width="350">
+<img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_1.gif" width="350">
+<img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_2.gif" width="350">
+<img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_3.gif" width="350">
+<img src="https://github.com/satyam-src/Forest-Fire-Predication/blob/main/video_examples/video_0.gif" width="350">
 
